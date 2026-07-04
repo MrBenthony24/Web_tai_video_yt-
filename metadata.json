@@ -1,0 +1,6 @@
+{
+  "name": "YouTube Downloader and MP3 Extractor",
+  "description": "An application that allows users to download YouTube videos in various resolutions and extract audio in high-quality MP3 format.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
